@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm intall reat```
+
+Sistema de regisstro 2
